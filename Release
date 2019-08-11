@@ -1,0 +1,9 @@
+Origin: B3y0ndspaces Repo
+Label: B3y0ndspace's Repo
+Suite: stable
+Version: 1.0
+Codename: B3y0ndspace's Repo
+Architectures: iphoneos-arm
+Components: main
+Description: My Personal Repo
+Icon: file://CydiaIcon.png
