@@ -14,3 +14,20 @@ Description: XenHTML Widget by Simonjap63 edited for battery
 Author: CreatureSurvive
 Depiction: 
 Name: WSmr1[Battery]
+
+Package: com.B30yndspace.tinymodhack_1.7_iphoneos-arm.deb
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: ~
+Installed-Size: 176
+Depends: mobilesubstrate
+Filename: ./Debs/com.B30yndspace.tinymodhack_1.7_iphoneos-arm.deb
+Size: 245
+MD5sum:9e6968fd810877760e4be01ff5f4295b
+SHA1: 6016da0536bdbe4cd2e44f2d837dcc37a84bb6a8
+SHA256: 145b6e9dde0603eddff4a748f736daa6dec29d7900e4b404b1ebbe55c227ad17
+Section: Tweaks
+Description: LS Barebones - Tiny Mod [Font & Backgn]
+Author: ~
+Depiction: 
+Name: LS Barebones - Tiny Mod [Font & Backgn]
