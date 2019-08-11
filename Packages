@@ -6,9 +6,9 @@ Installed-Size: 176
 Depends: mobilesubstrate
 Filename: ./Debs/com.B3y0ndspace.wsmr1Battery_0.1_iphoneos-arm.deb
 Size: 245
-MD5sum: 
-SHA1: 
-SHA256: 
+MD5sum: 2de6825ba96ac0210da39b71e5824974
+SHA1: a2efe11b058d6426aa50cc8360adb857149b68c0
+SHA256: 9315d5c9a441cd8d2e2d581c136447a80b33edffe9c32c69aa8feecbca669211
 Section: Tweaks
 Description: XenHTML Widget by Simonjap63 edited for battery
 Author: CreatureSurvive
