@@ -1,8 +1,16 @@
-Origin:  B3y0ndspace
-Label: B3y0ndspace
-Suite: stable 
-Version: 1.0 
-Codename: ios 
-Architectures: iphoneos-arm 
-Components: main 
-Description:B3y0ndspace
+Package: com.B3y0ndspace.wsmr1Battery
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: ~
+Installed-Size: 176
+Depends: mobilesubstrate
+Filename: ./debs/com.B3y0ndspace.wsmr1Battery_0.1_iphoneos-arm.deb
+Size: 245
+MD5sum: 
+SHA1: 
+SHA256: 
+Section: Tweaks
+Description: XenHTML Widget by Simonjap63 edited for battery
+Author: CreatureSurvive
+Depiction: 
+Name: WSmr1[Battery]
