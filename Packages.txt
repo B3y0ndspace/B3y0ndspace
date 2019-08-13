@@ -7,7 +7,7 @@ Maintainer: B30yndspace
 Author: B30yndspace
 Section: LS Theme
 Depends: XenHTML 
-Filename: debs/
+Filename: debs/com.B30yndspace.tinymodhack_1.7_iphoneos-arm.deb
 Size: 430256
 MD5sum: 9e6968fd810877760e4be01ff5f4295b
 SHA1: 6016da0536bdbe4cd2e44f2d837dcc37a84bb6a8
@@ -22,7 +22,7 @@ Maintainer: ~
 Author: B3yondspace
 Section: iwidgets
 Depends: mobilesubstrate
-Filename: debs/
+Filename: debs/com.B3y0ndspace.wsmr1battery_0.1_iphoneos-arm.deb
 Size: 2559906
 MD5sum: 2de6825ba96ac0210da39b71e5824974
 SHA1: a2efe11b058d6426aa50cc8360adb857149b68c0
