@@ -20,7 +20,7 @@ Architecture: iphoneos-arm
 Description: XenHTML Widget battery only
 Maintainer: ~
 Author: B3yondspace
-Section: iwidgets
+Section: iWidgets
 Depends: mobilesubstrate
 Filename: debs/com.B3y0ndspace.wsmr1battery_0.1_iphoneos-arm.deb
 Size: 2559906
