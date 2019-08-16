@@ -6,7 +6,7 @@ Description: A Tiny lightweight version of LS Barebones. (A Barebones version of
 Maintainer: B30yndspace
 Author: B30yndspace
 Section: LS Theme
-Depends: XenHTML 
+Depends: com.matchstic.xenhtml 
 Filename: debs/com.B30yndspace.tinymodhack_1.7_iphoneos-arm.deb
 Size: 430256
 MD5sum: 9e6968fd810877760e4be01ff5f4295b
@@ -27,3 +27,19 @@ Size: 2559906
 MD5sum: 2de6825ba96ac0210da39b71e5824974
 SHA1: a2efe11b058d6426aa50cc8360adb857149b68c0
 SHA256: 9315d5c9a441cd8d2e2d581c136447a80b33edffe9c32c69aa8feecbca669211
+
+Package: com.b3y0ndspace.SBbatterybar
+Name: BatteryBar
+Version: 0.1
+Depends: com.junesiphone.xeninfo
+Architecture: iphoneos-arm
+Description: Battery bar at bottom
+Maintainer: ~
+Author: B3yondspace
+Section: Homescreen Widgets
+Depends: mobilesubstrate
+Filename: debs/com.b3y0ndspace.SBbatterybar_1.0_iphoneos-arm.deb
+Size: 118756
+MD5sum: d5bc094f666f6ad38b1d829bd395fd73
+SHA1: f6e5458b34023ccae30127b861525fb68f77a3dd
+SHA256: 86f33d9c8ec8f0e87964a33a68ffc1f0e99b69b73a0695ee4f0a758d491abfce
