@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin:auto;
+	padding:0px;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+.Willsmith {
+	width:402px;
+	height:65px;
+	margin-top:-1px;
+	border:3px solid black;
+	border-color:orange;
+	border-radius:10px;
+}
+
+img{
+	transform:translate(290px,69px);
+	width:60px;
+}
+
+
