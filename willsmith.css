@@ -20,9 +20,9 @@ img{
 }
 
 .background{
-	background-image: image("background.jpg");
-	transform: 6070;
-	width: auto
+	background-image:url("Asset/background.jpg");
+	transform: 1334px;
+	width: 750px
 	
 		
 }
