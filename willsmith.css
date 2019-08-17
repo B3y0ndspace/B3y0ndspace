@@ -19,4 +19,10 @@ img{
 	width:60px;
 }
 
-
+.background{
+	background-image: image("background.jpg");
+	transform: 6070;
+	width: auto
+	
+		
+}
