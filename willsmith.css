@@ -1,28 +1,26 @@
 @charset "utf-8";
 /* CSS Document */
 *{
-	margin:auto;
-	padding:0px;
+    max-height:10000px;
+	padding:210px;
+    width: 310px;
 	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
 }
-.Willsmith {
-	width:402px;
-	height:65px;
-	margin-top:-1px;
-	border:3px solid black;
-	border-color:orange;
-	border-radius:10px;
-}
 
+.poop{
+    transform:translate(-85px,-1325px);
+}
+.cydia {
+    transform:translate(-25px,-2200px);
+}
 img{
-	transform:translate(-290px,69px);
+	transform:translate(-180px,15px);
 	width:60px;
 }
-
 .background{
+    height:900px;
 	background-image:url("../b3y0ndspace.github.io/Asset/backgroundwhite.png");
-	padding: 600px;
-	width: 0px;
+	width: 320px;
 	
 		
 }
