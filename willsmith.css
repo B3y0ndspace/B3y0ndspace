@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+    max-height:10000px;
+	padding:210px;
+    width: 310px;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+
+.poop{
+    transform:translate(-85px,-1325px);
+}
+.cydia {
+    transform:translate(-25px,-2200px);
+}
+img{
+	transform:translate(-180px,15px);
+	width:60px;
+}
+.background{
+    height:900px;
+	background-image:url("../b3y0ndspace.github.io/Asset/backgroundwhite.png");
+	width: 320px;
+	
+		
+}
