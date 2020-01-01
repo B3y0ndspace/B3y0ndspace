@@ -43,3 +43,89 @@ Size: 118756
 MD5sum: d5bc094f666f6ad38b1d829bd395fd73
 SHA1: f6e5458b34023ccae30127b861525fb68f77a3dd
 SHA256: 86f33d9c8ec8f0e87964a33a68ffc1f0e99b69b73a0695ee4f0a758d491abfce
+
+Package: com.b3y0ndspace.violaweather
+Name: Viola Weather
+Version: 1.1
+Depends: com.junesiphone.xeninfo, com.matchstic.xenhtml
+Architecture: iphoneos-arm
+Description: Viola Weather is a widget with the style of macOS Mojave darkmode and has the same background like the Viola Dark Icons. Thanks @bossgfx_ for the hex color code!
+Maintainer: ~
+Author: B3yondspace
+Section: Homescreen Widgets
+Filename: debs/com.b3y0ndspace.violaweather_1.1_iphoneos-arm.deb
+Size: 4829402
+MD5sum: 4c10c257af8f5c72a1e8319bd8226e12
+SHA1: 8ef8bcad9dafbbde9a212500ec47d07d2e45e024
+SHA256: 6c7b389898ccc8ac44c46efbf33e9c08f2a129fa78fa553eaa2af1177d667bea
+
+Package: com.B30yndspace.sbx-statusbarthemesforxeonandsnowboard
+Name: SB X - Statusbar themes for Xeon and Snowboard
+Version: 1.7
+Depends: com.junesiphone.xeninfo, com.matchstic.xenhtml
+Architecture: iphoneos-arm
+Description: A status bar icon pack for Xeon and Snowboard!
+Maintainer: B3y0ndspace
+Author: B3yondspace
+Section: Statusbar
+Filename: debs/com.B30yndspace.sbx-statusbarthemesforxeonandsnowboard_1.7_iphoneos-arm.deb
+Size: 565432
+MD5sum: fada95c38459b1a3e82d646278e384d7
+SHA1: 9ce9b5a4eff935aa645847b76886bca7a4ea92ec
+SHA256: 219ec030e066e810d8512dabe250054176ec0bcd6b2bdd13eea3fd852e39dcfc
+Package: com.b3y0ndspace.pebbli
+Name: Pebbli
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A 'mini'mal theme
+Maintainer: B3y0ndspace
+Author: B3yondspace
+Section: Themes
+Filename: debs/com.b3y0ndspace.pebbli_1.0_iphoneos-arm.deb
+Size: 149168
+MD5sum: 37ffa962b2416048b5f09c1143d0acf4
+SHA1: 5a5e70971bcf5a04b1f292baab3c473e87d7adc6
+SHA256: 41ec02faff4a01c3f8ce1a7735ec6b67cbcdf79d8229d40f786652f64d867e4d
+
+Package: com.B30yndspace.lotusdark
+Name: Lotus Dark
+Version: 1.0.9
+Architecture: iphoneos-arm
+Description: A dark alternative to Lotus
+Maintainer: B3y0ndspace
+Author: B3yondspace
+Section: Themes
+Filename: debs/com.B30yndspace.lotusdark_1.0.9_iphoneos-arm.deb
+Size: 17599670
+MD5sum: a8126d2636f03dd89d9c6e3fa80f49e1
+SHA1: 62118d47d7c7ed4557453de1e395596b0086a1ec
+SHA256: b39a487d9465fe98fa47ec442649da4b29aeea1379f32c36e347a8ea61af78cb
+
+Package: com.B30yndspace.kecil
+Name: Kecil
+Version: 4.8
+Architecture: iphoneos-arm
+Description: Best goddamn theme you'll ever see
+Maintainer: B3y0ndspace
+Author: B3yondspace
+Section: Themes
+Filename: debs/com.B30yndspace.kecil_4.8_iphoneos-arm.deb
+Size: 21910796
+MD5sum: 60568f31884a5e338df1261723956279
+SHA1: 26a805735a417d01d525c5c5f3c4c906a2dee127
+SHA256: 13dfc9e6de4f193570bb55ba8c996f9ecf06c8b3d8ebb4cf3a7b802d52626600
+
+Package: com.B30yndspace.fizip
+Name: FiZiP
+Version: 1.2
+Architecture: iphoneos-arm
+Description: SUPER COOL and Colorful flat theme
+Maintainer: B3y0ndspace
+Author: B3yondspace
+Section: Themes
+Depends: com.codethemed.iconbundles
+Filename: debs/com.B30yndspace.fizip_1.2_iphoneos-arm.deb
+Size: 18612434
+MD5sum: c11bc36dcdc807edcf43eb454b9805da
+SHA1: db7d4ab51f892d34b6a07dc0338d14e213f2cd7a
+SHA256: ed017de6fb3941ca2d43c89d041a07832e865037da890d66bd0e6ed8a778515f
