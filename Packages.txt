@@ -130,17 +130,17 @@ MD5sum: c11bc36dcdc807edcf43eb454b9805da
 SHA1: db7d4ab51f892d34b6a07dc0338d14e213f2cd7a
 SHA256: ed017de6fb3941ca2d43c89d041a07832e865037da890d66bd0e6ed8a778515f
 
-Package: com.B3y0ndspace.pebblithemev2_1.0
-Name:pebblithemev2_1.0 
-Version: 2.0
+Package: com.B3y0ndspace.pebblithemev2
+Name:Pebbli Status Bar Theme 
+Version: 1.0
 Architecture: iphoneos-arm
 Description: A status bar theme (based of Pebbli)
-Maintainer:B3yondspace 
+Maintainer:~
 Author: B3yondspace
 Section: Themes
 Filename: debs/com.B3y0ndspace.pebblithemev2_1.0_iphoneos-arm.deb
 Size: 19842 
-MD5sum: e7ce9b41e743b5483b7813e55f3e8ecb
-SHA1: 63ea693bca7627d2ce12f3113fef44a704902712
-SHA256: bf244cfb3af6f1c21c55c5cba69cbe448e55e1f3b3e5825633e8cbaa8a83766b
+MD5sum: 209b06a7d08a5c466307dfab654bf2b1
+SHA1: 0ec92dfaf4eb05824b64b8640af5133ffce3c9e8
+SHA256: 327d7c230e4929234985155613cbb373822130b167492886b5057c5421a6622b
 
